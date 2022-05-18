@@ -1,0 +1,3 @@
+const appId = '121df5c31c95454683eca9163b8b753d';
+const channelName = 'channel';
+const token = '006121df5c31c95454683eca9163b8b753dIABilBp5OOKzWIL4v5VVwL8/GYK+09TLuRUYF0Nn5e7c7EeO+aIAAAAAEACXaa56OQeGYgEAAQA5B4Zi';
